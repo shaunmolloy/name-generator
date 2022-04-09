@@ -1,6 +1,6 @@
 {
   "name": "@shaunmolloy/name-generator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Name generator is a node module that outputs a random first and last name",
   "main": "index.js",
   "scripts": {
