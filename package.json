@@ -1,0 +1,24 @@
+{
+  "name": "@shaunmolloy/name-generator",
+  "version": "1.0.0",
+  "description": "Name generator is a node module that outputs a random first and last name",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "author": "Shaun Molloy <shaunmolloy@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunmolloy/name-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shaunmolloy/name-generator/issues"
+  },
+  "homepage": "https://github.com/shaunmolloy/name-generator#readme"
+}
