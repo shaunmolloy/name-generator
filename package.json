@@ -8,6 +8,10 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
   },
+  "bin": {
+    "name-generator": "./index.js"
+  },
+  "dependencies": {},
   "devDependencies": {
     "jest": "^27.5.1"
   },
